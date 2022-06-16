@@ -1,0 +1,15 @@
+* {
+    font-family: Roboto;
+  }
+  
+  /*************** AÇILIR MENU **************/
+  nav.dropdown {
+    width: 10rem;
+  }
+  nav.dropdown ul {
+    display: none;
+  }
+  
+  nav.dropdown:hover ul {
+    display: block;
+  }
